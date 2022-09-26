@@ -11,4 +11,6 @@
 8. Test run piipeline stage
 9. Run tox for testing your packages
 10. Update the dvc.yaml
-11. Run "dvc repro" for runnin all the stages in pipeline 
+11. Run "dvc repro" for runnin all the stages in pipeline
+
+![img]("./docs/images/Data%20Ingestion%402x%20(1).png")
